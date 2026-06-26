@@ -1,4 +1,4 @@
-# TLC Trip Data — Pipeline Medallion
+# TLC Trip Data
 
 ## Ordem de execução
 
