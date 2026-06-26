@@ -1,4 +1,4 @@
-# TLC Trip Data — Pipeline Medallion
+# TLC Trip Data
 
 ## Ordem de execução
 
@@ -43,7 +43,7 @@ Execute este notebook no Databricks Community Edition.
 
 ## Resultados das Análises
 
-### Q1: Média de valor total recebido por mês (Yellow Taxi)
+### Q1: Média de valor total recebido por mês
 
 A média de valor total recebido por mês pelos yellow taxis ficou em torno de **$28**, com crescimento gradual de janeiro ($27.46) a maio ($29.45).
 
